@@ -1,2 +1,2 @@
-# Python-projects
-Password maganer project. Short discription in presentation.
+# Python-project. Password manager
+Short discription in presentation.
